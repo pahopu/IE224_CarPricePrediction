@@ -500,7 +500,7 @@ xám,Bán chuyên,Hà Nội,Porsche,Panamera,2021,1100,Đã sử dụng,Tự đ�
 đỏ,Bán chuyên,Tp. Hồ Chí Minh,Kia,Morning,2022,9700,Đã sử dụng,Tự động,Xăng,Hatchback,5,Việt Nam,No,385000000
 đen,Bán chuyên,Tp. Hồ Chí Minh,Mercedes Benz,E Class,2022,200,Đã sử dụng,Tự động,Xăng,Sedan,5,Việt Nam,No,1839000000
 be,Cá nhân,Tp. Hồ Chí Minh,Toyota,Camry,2009,110000,Đã sử dụng,Tự động,Xăng,Sedan,5,Việt Nam,Yes,360000000
-vàng,Cá nhân,Thừa Thiên Huế,Suzuki,Dòng khác,2015,89999,Đã sử dụng,Tự động,Xăng,SUV / Cross over,7,Ấn Độ,No,259000000
+vàng,Cá nhân,Thừa Thiên - Huế,Suzuki,Dòng khác,2015,89999,Đã sử dụng,Tự động,Xăng,SUV / Cross over,7,Ấn Độ,No,259000000
 đen,Bán chuyên,Hà Nam,Mitsubishi,Xpander,2021,23456,Đã sử dụng,Tự động,Xăng,Minivan (MPV),7,Đang cập nhật,No,525000000
 trắng,Bán chuyên,Tp. Hồ Chí Minh,Lexus,ES,2013,62000,Đã sử dụng,Tự động,Động cơ Hybrid,Sedan,5,Nhật Bản,No,899000000
 đen,Bán chuyên,Hà Nội,Vinfast,Lux A2.0,2020,34000,Đã sử dụng,Tự động,Xăng,Sedan,5,Việt Nam,No,565000000
@@ -782,7 +782,7 @@ trắng,Bán chuyên,Tp. Hồ Chí Minh,Mazda,CX 8,2022,30000,Mới,Tự động
 đen,Bán chuyên,Tp. Hồ Chí Minh,LandRover,Range Rover Evoque,2012,35000,Đã sử dụng,Tự động,Xăng,SUV / Cross over,5,Đang cập nhật,No,690000000
 đen,Bán chuyên,Tp. Hồ Chí Minh,Toyota,Innova,2018,50000,Đã sử dụng,Tự động,Xăng,Minivan (MPV),7,Việt Nam,Yes,538000000
 đen,Bán chuyên,Hà Nội,Toyota,Land Cruiser Prado,2017,80000,Đã sử dụng,Tự động,Xăng,SUV / Cross over,7,Đang cập nhật,Yes,1400000000
-xanh lá,Cá nhân,Thừa Thiên Huế,Mitsubishi,Attrage,2017,11000,Đã sử dụng,Tự động,Dầu,Minivan (MPV),7,Đang cập nhật,No,260000000
+xanh lá,Cá nhân,Thừa Thiên - Huế,Mitsubishi,Attrage,2017,11000,Đã sử dụng,Tự động,Dầu,Minivan (MPV),7,Đang cập nhật,No,260000000
 đỏ,Cá nhân,Đồng Nai,Kia,Magentis,2010,80000,Đã sử dụng,Số sàn,Xăng,Hatchback,4,Việt Nam,No,80000000
 xám,Cá nhân,Đồng Nai,Toyota,Innova,2017,100000,Đã sử dụng,Số sàn,Xăng,Minivan (MPV),8,Đang cập nhật,Yes,450000000
 đen,Bán chuyên,Tp. Hồ Chí Minh,Suzuki,Ertiga,2015,30000,Đã sử dụng,Tự động,Xăng,Minivan (MPV),7,Nước khác,Yes,280000000
@@ -975,7 +975,7 @@ be,Bán chuyên,Tp. Hồ Chí Minh,Toyota,Hiace,2003,100000,Đã sử dụng,S�
 nâu,Bán chuyên,Tiền Giang,Hyundai,Elantra,2022,50000,Mới,Tự động,Xăng,Sedan,5,Hàn Quốc,No,599000000
 đỏ,Bán chuyên,Trà Vinh,Hyundai,Elantra,2022,50000,Mới,Tự động,Xăng,Sedan,5,Hàn Quốc,No,599000000
 đen,Bán chuyên,Hà Nội,Toyota,Vios,2019,50000,Đã sử dụng,Tự động,Xăng,Sedan,5,Việt Nam,No,428000000
-đen,Bán chuyên,Thừa Thiên Huế,Mazda,CX 5,2016,65000,Đã sử dụng,Tự động,Xăng,SUV / Cross over,5,Đang cập nhật,No,525000000
+đen,Bán chuyên,Thừa Thiên - Huế,Mazda,CX 5,2016,65000,Đã sử dụng,Tự động,Xăng,SUV / Cross over,5,Đang cập nhật,No,525000000
 đỏ,Bán chuyên,Tp. Hồ Chí Minh,Kia,Morning,2019,13000,Đã sử dụng,Tự động,Xăng,Hatchback,5,Đang cập nhật,No,298000000
 đen,Bán chuyên,Tp. Hồ Chí Minh,Hyundai,Avante,2013,81999,Đã sử dụng,Tự động,Xăng,Sedan,5,Đang cập nhật,No,275000000
 đen,Bán chuyên,Lâm Đồng,Mitsubishi,Xpander,2020,15000,Đã sử dụng,Tự động,Xăng,Minivan (MPV),5,Nước khác,No,499000000
@@ -2538,7 +2538,7 @@ xám,Bán chuyên,Tp. Hồ Chí Minh,Toyota,Hiace,2005,100000,Đã sử dụng,S
 trắng,Bán chuyên,Hà Nội,Mercedes Benz,E Class,2016,50000,Đã sử dụng,Tự động,Xăng,Sedan,5,Đang cập nhật,Yes,1099000000
 xanh lá,Bán chuyên,Hà Nội,Kia,Cerato,2018,42000,Đã sử dụng,Tự động,Xăng,Sedan,5,Đang cập nhật,Yes,479000000
 đen,Bán chuyên,Tp. Hồ Chí Minh,Toyota,Innova,2016,90000,Đã sử dụng,Số sàn,Xăng,Minivan (MPV),8,Đang cập nhật,No,295000000
-vàng,Cá nhân,Thừa Thiên Huế,Suzuki,Dòng khác,2015,89999,Đã sử dụng,Tự động,Xăng,SUV / Cross over,7,Ấn Độ,No,259000000
+vàng,Cá nhân,Thừa Thiên - Huế,Suzuki,Dòng khác,2015,89999,Đã sử dụng,Tự động,Xăng,SUV / Cross over,7,Ấn Độ,No,259000000
 đen,Bán chuyên,Tp. Hồ Chí Minh,Lexus,ES,2013,62000,Đã sử dụng,Tự động,Động cơ Hybrid,Sedan,5,Nhật Bản,Yes,899000000
 đen,Bán chuyên,Hà Nội,Ford,Ranger,2022,18000,Đã sử dụng,Tự động,Dầu,Pick-up (bán tải),5,Đang cập nhật,Yes,645000000
 đen,Bán chuyên,Đồng Nai,Toyota,Vios,2021,34000,Đã sử dụng,Tự động,Xăng,Sedan,4,Đang cập nhật,No,470000000
